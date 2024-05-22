@@ -1,1 +1,1 @@
-It is a simple HTML and CSS based mini project
+It is a HTML and CSS based mini project
